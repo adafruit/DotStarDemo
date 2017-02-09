@@ -3,3 +3,6 @@
 ################################################################################
 
 /DotStarHeaded/obj/ARM/Debug
+/DotStarHeadless/obj/ARM/Debug
+/DotStarHeaded/bin/ARM/Debug
+/DotStarHeadless/bin/ARM/Debug

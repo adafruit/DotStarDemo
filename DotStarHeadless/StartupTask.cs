@@ -55,7 +55,7 @@ namespace StrandTest
             //
             // Call asynchronous method(s) using the await keyword.
             //
-            await strip.Begin().ConfigureAwait(false);
+            await strip.BeginAsync().ConfigureAwait(false);
 
             while (true)
             {

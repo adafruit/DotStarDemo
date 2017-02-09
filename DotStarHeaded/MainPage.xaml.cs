@@ -101,7 +101,7 @@ namespace DotStarApp
 
         public async Task  StrandTest(CancellationToken ct)
         {
-            await strip.Begin().ConfigureAwait(false);
+            await strip.BeginAsync().ConfigureAwait(false);
             try
             {
                 while (!ct.IsCancellationRequested)
