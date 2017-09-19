@@ -51,8 +51,8 @@ namespace DotStarApp
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        //DotStar strip = new DotStar(60, 12, 13, DotStar.DOTSTAR_BGR);    //software SPI.  Data on GPIO 12, Clock on GPIO 13
-        DotStar strip = new DotStar(60, DotStar.DOTSTAR_BGR);    //hardware SPI.  Data on GPIO 10, Clock on GPIO 11
+        DotStar strip = new DotStar(60, 12, 13, DotStar.DOTSTAR_BGR);    //software SPI.  Data on GPIO 12, Clock on GPIO 13
+        //DotStar strip = new DotStar(60, DotStar.DOTSTAR_BGR);    //hardware SPI.  Data on GPIO 10, Clock on GPIO 11
         
         // Declare a System.Threading.CancellationTokenSource.
         CancellationTokenSource cts;// = new CancellationTokenSource();
