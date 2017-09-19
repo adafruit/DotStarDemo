@@ -1,7 +1,0 @@
-/In:"C:\Projects\Windows IoT\DotStarDemo\DotStarHeadless\obj\ARM\Release\ilc\in"
-/Lib:"C:\Projects\Windows IoT\DotStarDemo\DotStarHeadless\obj\ARM\Release\ilc\in"
-/Lib:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private"
-/Lib:"C:\Program Files (x86)\Windows Kits\10\References\Windows.System.SystemManagementContract\2.0.0.0"
-/WinMD:"C:\Projects\Windows IoT\DotStarDemo\DotStarHeadless\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
-/RdXmlPath:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\LibraryXML"
-/RunOnlyPreDR

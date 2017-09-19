@@ -1,1 +1,0 @@
-C:\Projects\Windows IoT\DotStarDemo\DotStarHeadless\DotStarHeadless.csproj;arm
